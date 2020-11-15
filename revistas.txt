@@ -2,3 +2,4 @@ Revistas prestadas: 27
 Revistas disponibles: 31
 Revistas reservadas: 6
 Revistas descatalogadas: 3
+Cambios revistas.txt EJERCICIO9
